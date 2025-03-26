@@ -3,7 +3,7 @@
 3. ✅ Top Performers Tracking: Identifying the most successful users on a daily and weekly basis.
 4. ✅ Error Analysis: Finding users who struggle with incorrect answers, so they can receive help.
 
-📊 Overall Insights from Your Queries
+📊 Overall Insights from Queries
 
 1️⃣ User Performance Analysis
 - ✔ Each user has a different number of submissions and total points earned.
